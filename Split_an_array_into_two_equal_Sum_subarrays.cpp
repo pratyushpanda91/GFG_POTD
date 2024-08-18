@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
   public:
     bool canSplit(vector<int>& arr) {
         long long sum1=0;
